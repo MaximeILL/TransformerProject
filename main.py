@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
-
 from models.transformer import Transformer
 from optimizers.ademamix import AdEMAMix
 from data.dataset import create_dataset, TDataset
