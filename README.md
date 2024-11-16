@@ -31,7 +31,7 @@ cd TransformerProject
 pip install -r requirements.txt
 ```
 
-## Execution
+## Run
 
 * Ensure you have installed the dependencies as described in the Installation section.
 
